@@ -1,0 +1,11 @@
+<!--categorias-->
+element 'div > div > div > div'
+
+<!--produtos-->
+element 'a[href*="prod"]'
+
+<!--lupa-->
+element :link, 'a:search'
+
+<!--carrinho-->
+'[href*="carrinho"]'

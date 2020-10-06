@@ -1,0 +1,9 @@
+ 
+<!--carrinho-->
+element :link, a[href*="cart"]
+
+<!--login-->
+input[name='login']
+
+<!--cadastro-->
+element  a[href*="cadastro"]

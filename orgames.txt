@@ -1,0 +1,8 @@
+<!--promocao-->
+a[href*="promo"]
+
+<!--busca-->
+input[name='search']
+
+<!--Quem_Somos-->
+a[href*="quem-somos"]
